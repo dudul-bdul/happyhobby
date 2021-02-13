@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "HappyHobby",
+  "shortName": "HappyHobby",
+  "description": " Media Seputar Hobbu Setiap Individu, Matketplace, online shop,onlinestore ",
+  "themeColor": "#0b37654",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
